@@ -7,7 +7,7 @@ This repository contains the official implementation of the paper:
 > *The Journal of Physical Chemistry Letters*, 2024, 15, 7681–7693.
 > DOI: [10.1021/acs.jpclett.4c01509](https://doi.org/10.1021/acs.jpclett.4c01509)
 
-> **Note on authorship:** EADTN — including its model design (ensemble architecture, feature adaptation, clustering-enhanced fine-tuning, and Shapley-based interpretation), implementation, experiments, and manuscript — was primarily developed and written by **Jinhang Wei** (first author).
+> **Note on authorship:** This code repository was primarily developed by **Jinhang Wei** (first author).
 
 # Requirements
 
